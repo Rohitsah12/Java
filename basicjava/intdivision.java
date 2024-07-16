@@ -12,7 +12,7 @@ class QuotientRemainder{
         System.out.println("The remainder is: "+remainder);
     }
 }
-public class intdivision {
+public class IntDivision {
     public static void main(String[] args) {
         QuotientRemainder a=new QuotientRemainder();
         a.operation();
